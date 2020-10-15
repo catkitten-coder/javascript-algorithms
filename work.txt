@@ -1,0 +1,4 @@
+You can use the JavaScript substring() method in combination with the jQuery append() and html() methods to truncate the paragraphs of a text and add read more link at the end, if the number of characters inside a paragraph exceeds a certain length.
+
+The jQuery code in following example will simply trim the paragraph and add read more link at the end. You can view the trimmed content by clicking the read more link.
+
